@@ -1,0 +1,3 @@
+Name: Èric
+Age: 31
+Favorite color: Green
